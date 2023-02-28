@@ -1,0 +1,17 @@
+---
+version: 1
+service:
+  name: Python Boilerplate
+  lifecycle: generally_available
+  owner: order_management_team
+  language: 
+  framework: 
+  description: Python Boilerplate contains all the boilerplate you need to create a Python package.
+  aliases:
+  tags:
+  - key: version
+    value: 0.1.0
+  - key: command_line_interface
+    value: Click
+  - key: open_source_license
+    value: MIT license
